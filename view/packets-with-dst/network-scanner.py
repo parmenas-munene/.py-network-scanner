@@ -6,4 +6,4 @@ def scan(ip):
     broadcast_packet = scapy.Ether()
     broadcat-packets.show()
 
-scan("10.0.2.1/24")
+scan("10.0.2.1/24") 
